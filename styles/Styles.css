@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: navy;
+    margin-left: 200px;
+}
+h2{
+    color: tomato;
+    margin-left: 200px;
+    padding: 100px;
+}
+table, tr, td {
+    width: 50%;
+    border: 1px solid black;
+}
+th {
+    height: 50px;
+}
+select{
+    margin-left: 200px;
+}
